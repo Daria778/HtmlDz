@@ -1,0 +1,16 @@
+a {
+    text-decoration-color: none;
+}
+
+.menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.ti {
+    color: red;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
