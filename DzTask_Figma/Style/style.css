@@ -23,6 +23,9 @@ main {
 .header__nav_menu {
     margin: 73px 155px 101px 115px;
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .nav_menu__items {
